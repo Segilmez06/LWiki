@@ -2,5 +2,6 @@
     "default": "main",
     "pageDirectory": "pages",
     "queryKey": "page",
-    "pageType": "md"
+    "pageType": "md",
+    "notFoundPage": "404"
 }
