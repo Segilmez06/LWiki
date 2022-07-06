@@ -1,1 +1,0 @@
-# Segilmez06
