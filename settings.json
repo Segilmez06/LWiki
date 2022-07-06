@@ -1,7 +1,17 @@
 {
-    "default": "main",
     "pageDirectory": "pages",
+    "default": "main",
     "queryKey": "page",
     "pageType": "md",
-    "notFoundPage": "404"
+    "notFoundPage": "404",
+    "topLinks": [
+        {
+            "name": "Home",
+            "page": "main"
+        },
+        {
+            "name": "Text Demo",
+            "page": "demo"
+        }
+    ]
 }
