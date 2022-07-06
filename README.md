@@ -1,2 +1,2 @@
 # LWiki
-Simple Wiki for Github Pages
+LWiki is a simple Wiki software designed for Github Pages.
