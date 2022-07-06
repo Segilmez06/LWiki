@@ -138,6 +138,14 @@ body {
     color: #4848d4;
 }
 
+.credits {
+    position: absolute;
+    bottom: 0;
+    font-size: 2vh;
+    text-align: center;
+    width: 100%;
+}
+
 
 /* CONTENT */
 .content {
