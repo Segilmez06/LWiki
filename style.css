@@ -43,6 +43,24 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.path-container {
+    height: 10vh;
+    float: left;
+}
+
+.path-label {
+    margin-left: 3vh;
+    margin-top: 5vh;
+
+    font-size: 2.25vh;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.path-text {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .search-container {
     height: 10vh;
 
