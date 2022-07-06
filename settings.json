@@ -1,0 +1,6 @@
+{
+    "default": "main",
+    "pageDirectory": "/pages",
+    "queryKey": "page",
+    "pageType": "md"
+}
