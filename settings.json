@@ -2,7 +2,6 @@
     "name": "LWiki Beta",
     "pageDirectory": "pages",
     "default": "main",
-    "queryKey": "page",
     "pageType": "md",
     "notFoundPage": "404",
     "topLinks": [
