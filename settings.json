@@ -1,4 +1,5 @@
 {
+    "name": "LWiki Beta",
     "pageDirectory": "pages",
     "default": "main",
     "queryKey": "page",

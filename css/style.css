@@ -6,7 +6,6 @@ html, body {
     margin: 0;
     border: 0;
     padding: 0;
-    /* overflow: hidden; */
 }
 
 body {
@@ -27,17 +26,18 @@ body {
 
 .home-container {
     height: 10vh;
-    width: 25vh;
+    max-width: 30vh;
     background-color: #51a151;
     border-bottom: 1px solid #e3e3e3;
     box-sizing: border-box;
     text-align: center;
+    padding: 0 0.5em;
 
     float: left;
 }
 
 .home-link {
-    font-size: 7vh;
+    font-size: 6vh;
     color: white;
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
