@@ -31,18 +31,19 @@ body {
 }
 
 .toast-menu {
-    margin: 2vh;
-    font-size: 6vh;
+    margin: 3vh;
+    font-size: 4vh;
     text-align: center;
 }
 
 .home-link {
-    font-size: 7vh;
+    font-size: 5vh;
     color: white;
     text-decoration: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     float:right;
     margin-right: 3vh;
+    margin-top: 2vh;
 }
 
 
@@ -57,7 +58,7 @@ body {
 }
 
 #menu {
-    display: none;
+    right: 100vw;
 }
 
 .path-label {
